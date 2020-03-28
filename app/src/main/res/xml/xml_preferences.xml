@@ -1,0 +1,13 @@
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+        app:key="cleardb"
+        app:title="Delete All Decks"
+        app:summary="Clear all decks from the list and start fresh."/>
+    <Preference
+        app:key="showdb"
+        app:title="Browse SQLite Database"
+        app:summary="Browse the database using Android Database Manager"/>
+
+</PreferenceScreen>
