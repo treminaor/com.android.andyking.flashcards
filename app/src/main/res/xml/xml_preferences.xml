@@ -8,6 +8,7 @@
     <Preference
         app:key="showdb"
         app:title="Browse SQLite Database"
-        app:summary="Browse the database using Android Database Manager"/>
+        app:summary="Browse the database using Android Database Manager"
+        app:isPreferenceVisible="false"/>
 
 </PreferenceScreen>
